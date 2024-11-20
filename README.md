@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Skye!
+# 👋 Hello, I'm Skye!
 
 Welcome to my GitHub profile! I’m a passionate in CyberSecurity with a love for learning and solving problems. Currently, I’m working on improving my skills in penetration testing. 
 
